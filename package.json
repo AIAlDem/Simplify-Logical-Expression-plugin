@@ -1,6 +1,7 @@
 {
   "name": "plugin",
-  "displayName": "My_first_plugin",
+  "publisher": "AIAlDem",
+  "displayName": "Simplify Logical Expression",
   "description": "simplify_expressions",
   "version": "0.0.1",
   "engines": {
@@ -36,6 +37,7 @@
     "@types/vscode": "^1.140.0",
     "@vscode/test-cli": "^0.0.15",
     "@vscode/test-electron": "^3.0.0",
+    "@vscode/vsce": "^4.0.0",
     "eslint": "^10.5.0",
     "jsdoc-to-markdown": "^9.1.3"
   },
